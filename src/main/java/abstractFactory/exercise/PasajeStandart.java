@@ -1,0 +1,21 @@
+package abstractFactory.exercise;
+
+public class PasajeStandart extends Pasaje {
+    private int costoPasaje;
+
+    @Override
+    public void showInfo() {
+        System.out.println("NumeroVuelo: " + getNumeroVuelo());
+        System.out.println("Pasajero: " + getPasajero());
+        System.out.println("NumeroAsiento: " + getNumeroAsiento());
+        System.out.println("CostoPasaje: " + getCostoPasaje());
+    }
+
+    public int getCostoPasaje() {
+        return costoPasaje;
+    }
+
+    public void setCostoPasaje(int costoPasaje) {
+        this.costoPasaje = costoPasaje;
+    }
+}

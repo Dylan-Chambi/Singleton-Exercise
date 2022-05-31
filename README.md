@@ -9,4 +9,6 @@
 
 ## 2° Partial
 
+- [Iterator](https://github.com/Dylan-Chambi/Patterns-Homework/tree/76bc936b1ecd33c11f3c5bb4a9a5c834eb4d0d88/src/main/java/iterator/exercise)
+
 ## 3° Partial

@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3805d6a5-38d1-4cb3-a2c0-71145b031783" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/AtencionCliente1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/Carnet5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/CertificadoNacimiento2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/Enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/FichaAtencion4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/IHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/ManagerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/PagoBanco3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/memento/exercise/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +53,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/dylan/Documents/Patrones de Diseño/Patterns-Homework/src/main/java/memento/exercise"
   }
 }]]></component>
@@ -92,7 +104,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7cc425bb-c8c7-42b8-8fcf-f399189c49e5" name="Changes" comment="" />
+      <changelist id="3805d6a5-38d1-4cb3-a2c0-71145b031783" name="Changes" comment="" />
       <created>1654153273406</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />

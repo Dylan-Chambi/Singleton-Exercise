@@ -11,7 +11,8 @@
 
 - [Iterator](https://github.com/Dylan-Chambi/Patterns-Homework/tree/76bc936b1ecd33c11f3c5bb4a9a5c834eb4d0d88/src/main/java/iterator/exercise)
 - [Mediator](https://github.com/Dylan-Chambi/Patterns-Homework/tree/4b26800e4e1853640e233aca853403e5a6344f23/src/main/java/mediator/exercise)
-- [Memento](https://github.com/Dylan-Chambi/Patterns-Homework/tree/896fc39f263d54e3068e0744a5f26c10b4c1e945/src/main/java/memento/exercise)
+- [Memento](https://github.com/Dylan-Chambi/Patterns-Homework/tree/f56e4b09a0fbb638882dc7657191fc15f7c5a1f7/src/main/java/memento/exercise)
+- [Chain of Responsibility - Classroom exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/51ca62518a54f3d52e1f01db45e5ac2333546336/src/main/java/chainofresponsability/inclass)
 
 
 ## 3° Partial

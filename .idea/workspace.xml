@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cc425bb-c8c7-42b8-8fcf-f399189c49e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/exercise/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/exercise/ICanalComunication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/exercise/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/exercise/PersonaDEV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/exercise/PersonaQA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/exercise/PersonaSM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/exercise/PersonaTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/exercise/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mediator/exercise/Skype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="3805d6a5-38d1-4cb3-a2c0-71145b031783" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Backup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/DatabaseVersioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +47,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/mediator/exercise" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/dylan/Documents/Patrones de Diseño/Patterns-Homework/src/main/java/memento/exercise"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dylan\Documents\Patrones de Diseño\Patterns-Homework\src\main\java\memento\exercise" />
       <recent name="C:\Users\dylan\IdeaProjects\Patterns-Homework\src\main\java\mediator\exercise" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="memento.exercise" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.memento.exercise.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mediator.exercise.Client" />
       <module name="Singleton-Exercise.main" />
@@ -77,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="memento.exercise.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="memento.exercise.Client" />
+      <module name="Singleton-Exercise.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="memento.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.memento.exercise.Client" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>

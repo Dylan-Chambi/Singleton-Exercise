@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3805d6a5-38d1-4cb3-a2c0-71145b031783" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Backup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/DatabaseVersioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/memento/exercise/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>

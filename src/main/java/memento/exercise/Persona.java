@@ -1,6 +1,6 @@
 package memento.exercise;
 
-public class Persona {
+public class Persona implements IPrototype {
     private String name;
     private String ci;
     private int edad;
@@ -40,5 +40,10 @@ public class Persona {
         System.out.println("CI: "+ci);
         System.out.println("Edad: "+edad);
         System.out.println("");
+    }
+
+    @Override
+    public Persona clone() {
+        return new Persona(name, ci, edad);
     }
 }

@@ -7,7 +7,7 @@ public class Backup {
     private Map<String, Memento> backups = new HashMap<>();
 
     public void createBackup(String alias, Memento memento){
-        backups.put(alias, memento);
+        backups.put(alias, memento.clone());
     }
 
     public Memento getBackup(String backupAlias){

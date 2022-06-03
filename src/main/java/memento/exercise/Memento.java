@@ -1,8 +1,7 @@
 package memento.exercise;
 
-import javax.xml.crypto.Data;
 
-public class Memento {
+public class Memento implements IPrototype {
     private Database state;
 
     public Memento(Database database){
@@ -11,5 +10,11 @@ public class Memento {
 
     public Database getState() {
         return state;
+    }
+
+
+    @Override
+    public Memento clone() {
+        return new Memento(state.clone());
     }
 }

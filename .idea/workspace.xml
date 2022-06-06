@@ -4,10 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3805d6a5-38d1-4cb3-a2c0-71145b031783" name="Changes" comment="">
+    <list default="true" id="42bfcdda-d6a2-4be0-b074-b0bf28a57fd5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/BubbleSortHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/IHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/InsertionSortHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/ManagerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/PersonaArrayExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/QuickSortHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/SortAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/exercise/SortArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/Enunciado" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chainofresponsability/inclass/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +29,17 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -42,29 +61,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/dylan/Documents/Patrones de Diseño/Patterns-Homework/src/main/java/memento/exercise"
-  }
-}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dylan\Documents\Patrones de Diseño\Patterns-Homework\src\main\java\memento\exercise" />
       <recent name="C:\Users\dylan\IdeaProjects\Patterns-Homework\src\main\java\mediator\exercise" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chainofresponsability.exercise" />
       <recent name="memento.exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.memento.exercise.Client">
+  <component name="RunManager" selected="Application.chainofresponsability.exercise.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mediator.exercise.Client" />
       <module name="Singleton-Exercise.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="mediator.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chainofresponsability.exercise.Client" />
+      <module name="Singleton-Exercise.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chainofresponsability.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chainofresponsability.exercise.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chainofresponsability.exercise.Client" />
+      <module name="Singleton-Exercise.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chainofresponsability.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.chainofresponsability.exercise.Client" />
         <item itemvalue="Application.memento.exercise.Client" />
         <item itemvalue="Application.Client" />
       </list>
@@ -95,7 +135,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3805d6a5-38d1-4cb3-a2c0-71145b031783" name="Changes" comment="" />
+      <changelist id="42bfcdda-d6a2-4be0-b074-b0bf28a57fd5" name="Changes" comment="" />
       <created>1654153273406</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />

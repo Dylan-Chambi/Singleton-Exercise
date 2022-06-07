@@ -14,5 +14,6 @@
 - [Memento](https://github.com/Dylan-Chambi/Patterns-Homework/tree/f56e4b09a0fbb638882dc7657191fc15f7c5a1f7/src/main/java/memento/exercise)
 - [Chain of Responsibility - Classroom exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/51ca62518a54f3d52e1f01db45e5ac2333546336/src/main/java/chainofresponsability/inclass)
 - [Chain of Responsibility - Homework exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/f812622fea005d7dcbec186ce37327754458e505/src/main/java/chainofresponsability/exercise)
+- [Command](https://github.com/Dylan-Chambi/Patterns-Homework/tree/2d07942efe2d576dbde979d79b481495bdbda12c/src/main/java/command/exercise)
 
 ## 3° Partial

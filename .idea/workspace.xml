@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42bfcdda-d6a2-4be0-b074-b0bf28a57fd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/command/exercise/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/command/exercise/ConcreteAtacar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/command/exercise/ConcreteDisparar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/command/exercise/ConcreteModoDefensa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/command/exercise/ICommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/command/exercise/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/command/exercise/Personaje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

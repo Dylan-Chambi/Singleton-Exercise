@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42bfcdda-d6a2-4be0-b074-b0bf28a57fd5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/CanalNotificaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/IObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/ISubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/Notificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/NotificacionNoticia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/NotificacionPrecioLlamada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/NotificacionPremio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/NotificacionPromocion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/NotificacionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +36,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="Kotlin Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -47,24 +60,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Users/dylan/IdeaProjects/Patterns-Homework/src/main/java/command/exercise"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dylan/IdeaProjects/Patterns-Homework/src/main/java/observer/exercise&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dylan\IdeaProjects\Patterns-Homework\src\main\java\observer\exercise" />
       <recent name="C:\Users\dylan\IdeaProjects\Patterns-Homework\src\main\java\command\exercise" />
       <recent name="C:\Users\dylan\Documents\Patrones de Diseño\Patterns-Homework\src\main\java\memento\exercise" />
       <recent name="C:\Users\dylan\IdeaProjects\Patterns-Homework\src\main\java\mediator\exercise" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dylan\IdeaProjects\Patterns-Homework\src\main\java\observer\exercise" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="observer.exercise" />
       <recent name="command.exercise" />
       <recent name="chainofresponsability.exercise" />
       <recent name="memento.exercise" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.command.exercise.Client">
+  <component name="RunManager" selected="Application.observer.exercise.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mediator.exercise.Client" />
       <module name="Singleton-Exercise.main" />
@@ -130,8 +148,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="observer.exercise.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observer.exercise.Client" />
+      <module name="Singleton-Exercise.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observer.exercise.IClient" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.observer.exercise.Client" />
         <item itemvalue="Application.command.exercise.Client" />
         <item itemvalue="Application.chainofresponsability.exercise.Client" />
         <item itemvalue="Application.memento.exercise.Client" />

@@ -19,7 +19,7 @@ public class CanalNotificaciones implements ISubject {
     @Override
     public void attach(IObserver observer, Set<NotificacionType> notificacionTypes) {
         observers.add(observer);
-        notificacionTypeMap.put(observer, new HashSet<NotificacionType>(notificacionTypes));
+        notificacionTypeMap.put(observer, new HashSet<>(notificacionTypes));
     }
 
     @Override

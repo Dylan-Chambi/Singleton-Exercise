@@ -12,15 +12,14 @@ public class Client {
         NotificacionPrecioLlamada notificacionPrecioLlamada = new NotificacionPrecioLlamada("Se debe llamar solo durante el fin de semana","5Bs");
 
 
-
         Cliente c1 = new Cliente(new Persona("Juan","12345678"), "123456789");
-        canalNotificaciones.attach(c1, new HashSet<>(Set.of(NotificacionType.PREMIO, NotificacionType.PROMOCION)));
+        canalNotificaciones.attach(c1, Set.of(NotificacionType.PREMIO, NotificacionType.PROMOCION));
 
         Cliente c2 = new Cliente(new Persona("Pedro","12345678"), "123456789");
-        canalNotificaciones.attach(c2, new HashSet<>(Set.of(NotificacionType.NOTICIA)));
+        canalNotificaciones.attach(c2, Set.of(NotificacionType.NOTICIA));
 
         Cliente c3 = new Cliente(new Persona("Carlos","12345678"), "123456789");
-        canalNotificaciones.attach(c3, new HashSet<>(Set.of(NotificacionType.PREMIO, NotificacionType.PROMOCION, NotificacionType.NOTICIA, NotificacionType.PRECIO_LLAMADA)));
+        canalNotificaciones.attach(c3, Set.of(NotificacionType.PREMIO, NotificacionType.PROMOCION, NotificacionType.NOTICIA, NotificacionType.PRECIO_LLAMADA));
 
         canalNotificaciones.publishNotification(notificacionPromocion);
         canalNotificaciones.publishNotification(notificacionPremio);
@@ -29,17 +28,13 @@ public class Client {
 
 
         Cliente c4 = new Cliente(new Persona("Maria","12345678"), "123456789");
-        canalNotificaciones.attach(c4, new HashSet<>(Set.of(NotificacionType.PREMIO, NotificacionType.PROMOCION, NotificacionType.NOTICIA, NotificacionType.PRECIO_LLAMADA)));
+        canalNotificaciones.attach(c4, Set.of(NotificacionType.PREMIO, NotificacionType.PROMOCION, NotificacionType.NOTICIA, NotificacionType.PRECIO_LLAMADA));
 
         NotificacionNoticia notificacionNoticia2 = new NotificacionNoticia("Real Madrid gana la Champions League");
         canalNotificaciones.detach(c3, NotificacionType.NOTICIA);
 
 
         canalNotificaciones.publishNotification(notificacionNoticia2);
-
-
-
-
 
     }
 }

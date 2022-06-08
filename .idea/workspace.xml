@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42bfcdda-d6a2-4be0-b074-b0bf28a57fd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/CanalNotificaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/IObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/ISubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/Notificacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/NotificacionNoticia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/NotificacionPrecioLlamada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/NotificacionPremio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/NotificacionPromocion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/NotificacionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/observer/exercise/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

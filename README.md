@@ -15,5 +15,6 @@
 - [Chain of Responsibility - Classroom exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/51ca62518a54f3d52e1f01db45e5ac2333546336/src/main/java/chainofresponsability/inclass)
 - [Chain of Responsibility - Homework exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/f812622fea005d7dcbec186ce37327754458e505/src/main/java/chainofresponsability/exercise)
 - [Command](https://github.com/Dylan-Chambi/Patterns-Homework/tree/2d07942efe2d576dbde979d79b481495bdbda12c/src/main/java/command/exercise)
+- [Observer](https://github.com/Dylan-Chambi/Patterns-Homework/tree/10cd5e27b454dbac33733f2dda55f628eedc05f7/src/main/java/observer/exercise)
 
 ## 3° Partial

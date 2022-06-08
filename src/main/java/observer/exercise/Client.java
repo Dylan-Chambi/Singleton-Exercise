@@ -12,13 +12,13 @@ public class Client {
         NotificacionPrecioLlamada notificacionPrecioLlamada = new NotificacionPrecioLlamada("Se debe llamar solo durante el fin de semana","5Bs");
 
 
-        Cliente c1 = new Cliente(new Persona("Juan","12345678"), "123456789");
+        Cliente c1 = new Cliente(new Persona("65656065", "Juan"), "123456789");
         canalNotificaciones.attach(c1, Set.of(NotificacionType.PREMIO, NotificacionType.PROMOCION));
 
-        Cliente c2 = new Cliente(new Persona("Pedro","12345678"), "123456789");
+        Cliente c2 = new Cliente(new Persona("65656066", "Pedro"), "123456789");
         canalNotificaciones.attach(c2, Set.of(NotificacionType.NOTICIA));
 
-        Cliente c3 = new Cliente(new Persona("Carlos","12345678"), "123456789");
+        Cliente c3 = new Cliente(new Persona("65656067", "Carlos"), "123456789");
         canalNotificaciones.attach(c3, Set.of(NotificacionType.PREMIO, NotificacionType.PROMOCION, NotificacionType.NOTICIA, NotificacionType.PRECIO_LLAMADA));
 
         canalNotificaciones.publishNotification(notificacionPromocion);
@@ -27,7 +27,7 @@ public class Client {
         canalNotificaciones.publishNotification(notificacionPrecioLlamada);
 
 
-        Cliente c4 = new Cliente(new Persona("Maria","12345678"), "123456789");
+        Cliente c4 = new Cliente(new Persona("65656068", "Maria"), "123456789");
         canalNotificaciones.attach(c4, Set.of(NotificacionType.PREMIO, NotificacionType.PROMOCION, NotificacionType.NOTICIA, NotificacionType.PRECIO_LLAMADA));
 
         NotificacionNoticia notificacionNoticia2 = new NotificacionNoticia("Real Madrid gana la Champions League");

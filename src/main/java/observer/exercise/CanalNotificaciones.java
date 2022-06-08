@@ -27,8 +27,10 @@ public class CanalNotificaciones implements ISubject {
         if(notificacionTypeMap.containsKey(observer)){
             if(notificacionTypeMap.get(observer).size() > 1){
                 notificacionTypeMap.get(observer).remove(notificacionType);
-            }else{
+            }else if(notificacionTypeMap.get(observer).contains(notificacionType)){
                 notificacionTypeMap.remove(observer);
+            }else{
+                throw new IllegalArgumentException("El observer no tiene esa notificacion");
             }
         }
     }

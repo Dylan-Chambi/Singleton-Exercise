@@ -17,5 +17,6 @@
 - [Command](https://github.com/Dylan-Chambi/Patterns-Homework/tree/2d07942efe2d576dbde979d79b481495bdbda12c/src/main/java/command/exercise)
 - [Observer](https://github.com/Dylan-Chambi/Patterns-Homework/tree/10cd5e27b454dbac33733f2dda55f628eedc05f7/src/main/java/observer/exercise)
 - [State](https://github.com/Dylan-Chambi/Patterns-Homework/tree/27324117b768c4899c992667cafe190634722002/src/main/java/state/exercise)
+- [Strategy](https://github.com/Dylan-Chambi/Patterns-Homework/tree/95c8a8a5a4ed220d866800167f3e30c8a8526f74/src/main/java/strategy/exercise)
 
 ## 3° Partial

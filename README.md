@@ -16,5 +16,6 @@
 - [Chain of Responsibility - Homework exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/f812622fea005d7dcbec186ce37327754458e505/src/main/java/chainofresponsability/exercise)
 - [Command](https://github.com/Dylan-Chambi/Patterns-Homework/tree/2d07942efe2d576dbde979d79b481495bdbda12c/src/main/java/command/exercise)
 - [Observer](https://github.com/Dylan-Chambi/Patterns-Homework/tree/10cd5e27b454dbac33733f2dda55f628eedc05f7/src/main/java/observer/exercise)
+- [State](https://github.com/Dylan-Chambi/Patterns-Homework/tree/27324117b768c4899c992667cafe190634722002/src/main/java/state/exercise)
 
 ## 3° Partial

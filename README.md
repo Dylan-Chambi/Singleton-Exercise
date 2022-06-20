@@ -20,3 +20,6 @@
 - [Strategy](https://github.com/Dylan-Chambi/Patterns-Homework/tree/95c8a8a5a4ed220d866800167f3e30c8a8526f74/src/main/java/strategy/exercise)
 
 ## 3° Partial
+
+- [Visitor](https://github.com/Dylan-Chambi/Patterns-Homework/tree/13f9076c388c7760544f53b907331601ac84f6df/src/main/java/visitor/exercise)
+- [Adapter](https://github.com/Dylan-Chambi/Patterns-Homework/tree/6c09ca9463daab0e97884a71e4cad77dcc6bb768/src/main/java/adapter/exercise)

@@ -7,9 +7,9 @@ public class Client {
         Tablet tablet = new Tablet().setPrecio(319.99).setTiempoDeVida(5);
         Computadora computadora = new Computadora().setPrecio(499.99).setTiempoDeVida(10);
 
-        AdapteeTelevisor televisor = new AdapteeTelevisor(new Televisor()).setPrecio(349.99).setTiempoDeVida(10);
-        AdapteeLavadora lavadora = new AdapteeLavadora(new Lavadora()).setPrecio(179.99).setTiempoDeVida(12);
-        AdapteeRefrigerador refrigerador = new AdapteeRefrigerador(new Refrigerador()).setPrecio(139.99).setTiempoDeVida(5);
+        AdapterTelevisor televisor = new AdapterTelevisor(new Televisor()).setPrecio(349.99).setTiempoDeVida(10);
+        AdapterLavadora lavadora = new AdapterLavadora(new Lavadora()).setPrecio(179.99).setTiempoDeVida(12);
+        AdapterRefrigerador refrigerador = new AdapterRefrigerador(new Refrigerador()).setPrecio(139.99).setTiempoDeVida(5);
 
         System.out.println("--------------------Artefactos Electricos--------------------");
         System.out.println(" - Celular : { " + "precio: " + celular.precio() + ", tiempoDeVida: " + celular.tiempoDeVida() + " }");

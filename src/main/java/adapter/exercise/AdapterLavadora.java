@@ -1,10 +1,10 @@
 package adapter.exercise;
 
-public class AdapteeLavadora implements IArtefactoEletronico {
+public class AdapterLavadora implements IArtefactoEletronico {
     private double diffCosto;
     private Lavadora lavadora;
 
-    public AdapteeLavadora(Lavadora lavadora) {
+    public AdapterLavadora(Lavadora lavadora) {
         this.lavadora = lavadora;
     }
 
@@ -22,7 +22,7 @@ public class AdapteeLavadora implements IArtefactoEletronico {
     }
 
     @Override
-    public AdapteeLavadora setPrecio(double precio) {
+    public AdapterLavadora setPrecio(double precio) {
         this.lavadora.setCosto((int) precio);
         this.diffCosto = precio - this.lavadora.costo();
         return this;
@@ -34,7 +34,7 @@ public class AdapteeLavadora implements IArtefactoEletronico {
     }
 
     @Override
-    public AdapteeLavadora setTiempoDeVida(int tiempoDeVida) {
+    public AdapterLavadora setTiempoDeVida(int tiempoDeVida) {
         this.lavadora.setTiempoDeGarantia(tiempoDeVida-5);
         return this;
     }

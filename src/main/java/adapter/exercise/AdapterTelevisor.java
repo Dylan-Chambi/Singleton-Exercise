@@ -1,10 +1,10 @@
 package adapter.exercise;
 
-public class AdapteeTelevisor implements IArtefactoEletronico {
+public class AdapterTelevisor implements IArtefactoEletronico {
     private double diffCosto;
     private Televisor televisor;
 
-    public AdapteeTelevisor(Televisor televisor) {
+    public AdapterTelevisor(Televisor televisor) {
         this.televisor = televisor;
     }
 
@@ -22,7 +22,7 @@ public class AdapteeTelevisor implements IArtefactoEletronico {
     }
 
     @Override
-    public AdapteeTelevisor setPrecio(double precio) {
+    public AdapterTelevisor setPrecio(double precio) {
         this.televisor.setCosto((int) precio);
         this.diffCosto = precio - this.televisor.costo();
         return this;
@@ -34,7 +34,7 @@ public class AdapteeTelevisor implements IArtefactoEletronico {
     }
 
     @Override
-    public AdapteeTelevisor setTiempoDeVida(int tiempoDeVida) {
+    public AdapterTelevisor setTiempoDeVida(int tiempoDeVida) {
         this.televisor.setTiempoDeGarantia(tiempoDeVida-5);
         return this;
     }

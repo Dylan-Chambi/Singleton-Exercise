@@ -1,10 +1,10 @@
 package adapter.exercise;
 
-public class AdapteeRefrigerador implements IArtefactoEletronico {
+public class AdapterRefrigerador implements IArtefactoEletronico {
     private double diffCosto;
     private Refrigerador refrigerador;
 
-    public AdapteeRefrigerador(Refrigerador refrigerador) {
+    public AdapterRefrigerador(Refrigerador refrigerador) {
         this.refrigerador = refrigerador;
     }
 
@@ -22,7 +22,7 @@ public class AdapteeRefrigerador implements IArtefactoEletronico {
     }
 
     @Override
-    public AdapteeRefrigerador setPrecio(double precio) {
+    public AdapterRefrigerador setPrecio(double precio) {
         this.refrigerador.setCosto((int) precio);
         this.diffCosto = precio - this.refrigerador.costo();
         return this;
@@ -34,7 +34,7 @@ public class AdapteeRefrigerador implements IArtefactoEletronico {
     }
 
     @Override
-    public AdapteeRefrigerador setTiempoDeVida(int tiempoDeVida) {
+    public AdapterRefrigerador setTiempoDeVida(int tiempoDeVida) {
         this.refrigerador.setTiempoDeGarantia(tiempoDeVida-5);
         return this;
     }

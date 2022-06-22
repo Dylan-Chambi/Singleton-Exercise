@@ -24,3 +24,4 @@
 - [Visitor](https://github.com/Dylan-Chambi/Patterns-Homework/tree/13f9076c388c7760544f53b907331601ac84f6df/src/main/java/visitor/exercise)
 - [Adapter](https://github.com/Dylan-Chambi/Patterns-Homework/tree/6c09ca9463daab0e97884a71e4cad77dcc6bb768/src/main/java/adapter/exercise)
 - [Proxy](https://github.com/Dylan-Chambi/Patterns-Homework/tree/8fcbb59ec036567aa6ae3368ef18b38a0590b70f/src/main/java/proxy/exercise)
+- [Bridge - Classroom exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/a7caeb807956433cea2502d53efe045ce22db490/src/main/java/bridge/withBridge)

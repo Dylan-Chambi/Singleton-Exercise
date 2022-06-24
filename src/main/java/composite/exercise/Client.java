@@ -1,7 +1,7 @@
 package composite.exercise;
 
 public class Client {
-    public static void main (String[]args){
+    public static void main (String []args){
         Computadora computadora1 = new Computadora("Computadora 1", 100);
         Computadora computadora2 = new Computadora("Computadora 2", 150);
         Computadora computadora3 = new Computadora("Computadora 3", 320);

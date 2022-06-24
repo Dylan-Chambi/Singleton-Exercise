@@ -8,6 +8,10 @@ public class Computadora implements Component{
         this.leafName = leafName;
         this.precioVenta = precioVenta;
     }
+    public Computadora setPrecioVenta(double precioVenta) {
+        this.precioVenta = precioVenta;
+        return this;
+    }
 
     public Computadora setLeafName(String leafName) {
         this.leafName = leafName;

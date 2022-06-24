@@ -26,3 +26,4 @@
 - [Proxy](https://github.com/Dylan-Chambi/Patterns-Homework/tree/8fcbb59ec036567aa6ae3368ef18b38a0590b70f/src/main/java/proxy/exercise)
 - [Bridge - Classroom exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/a7caeb807956433cea2502d53efe045ce22db490/src/main/java/bridge/withBridge)
 - [Bridge - Homework exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/2cdf8127ab987c876d579f414294fa3c9be574e1/src/main/java/bridge/exercise)
+- [Composite](https://github.com/Dylan-Chambi/Patterns-Homework/tree/2f74534319a155a988b4d8b0f07181f539df9577/src/main/java/composite/exercise)

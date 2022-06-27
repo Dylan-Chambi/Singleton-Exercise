@@ -27,3 +27,4 @@
 - [Bridge - Classroom exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/a7caeb807956433cea2502d53efe045ce22db490/src/main/java/bridge/withBridge)
 - [Bridge - Homework exercise](https://github.com/Dylan-Chambi/Patterns-Homework/tree/2cdf8127ab987c876d579f414294fa3c9be574e1/src/main/java/bridge/exercise)
 - [Composite](https://github.com/Dylan-Chambi/Patterns-Homework/tree/2f74534319a155a988b4d8b0f07181f539df9577/src/main/java/composite/exercise)
+- [Decorator](https://github.com/Dylan-Chambi/Patterns-Homework/tree/c958fe72a5ee44adca6c3fe794ebf5cb438b4480/src/main/java/decorator/exercise)

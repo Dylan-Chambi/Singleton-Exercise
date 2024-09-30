@@ -1,4 +1,4 @@
-# Pattern Homeworks Done
+# Design Pattern Practices Done
 
 ## 1° Partial
 - [Singleton](https://github.com/Dylan-Chambi/Patterns-Homework/tree/cc68b016f918e710972f9f79d0d8fd3976505826/src/main/java/singleton/exercise)
